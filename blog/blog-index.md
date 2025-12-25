@@ -21,7 +21,7 @@ description: View all blog posts here
 ## [Why I listen to ASMR](./why-i-listen-to-asmr.html) - *Written on January 21, 2025*
 ## [How many people you meet in life?](./how-many-people-you-meet.html) - *Written on January 24, 2025*  
 ## [The "What's a Father?"](./the-whats-a-father.html) - *Written on February 6, 2025*
-## [vegeta update on issues](./vegeta-update-on-issues.html) - *Written on February 14, 2025*
+## [fonzi update on issues](./fonzi-update-on-issues.html) - *Written on February 14, 2025*
 ## [Just a Thought on AI](./just-a-thought-on-ai.html) - *Written on March 4, 2025*
 ## [Am I Attached to Neuro?](./attached-to-neuro.html) - *Written on March 7, 2025*
 ## [I Have Hyperhidrosis](./i-have-hyperhidrosis.html) - *Written on March 25, 2025*
@@ -38,7 +38,7 @@ description: View all blog posts here
 ## [Ambient Music on YouTube](./ambient-youtube.html) - *Written on September 22, 2025*
 ## [Final Smile](./final-smile.html) - *Written on September 26, 2025*
 ## [Exceptions on AI](./how-i-perceive-ai.html) - *Published on October 4, 2025*
-## [vegeta update 1](/blog/vegeta_update_1/introduction.html) - *Written on October 10, 2025*
-## [vegeta update 2 - November 2025](./vegeta-update-nov-2025.html) - *Written on November 14, 2025*
+## [fonzi update 1](/blog/fonzi_update_1/introduction.html) - *Written on October 10, 2025*
+## [fonzi update 2 - November 2025](./fonzi-update-nov-2025.html) - *Written on November 14, 2025*
 ## [Thank You, June 2021](./thank-you-june-2021.html) - *Written on December 10, 2025*
 ## [John Cena](./john-cena.html) - *Written on December 15, 2025*
